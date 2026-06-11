@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.csv text eol=lf
+*.ipynb text eol=lf
+*.twbx binary
+*.pdf binary
+*.png binary
+*.xlsx binary
+*.db binary
+*.docx binary
